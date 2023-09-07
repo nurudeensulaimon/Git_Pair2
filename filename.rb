@@ -1,4 +1,5 @@
 def remove_zeros(nums):
+  #Added comment to the code 
   l = 0
   for r in range(len(nums)):
     if nums[r]
